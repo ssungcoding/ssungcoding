@@ -15,7 +15,7 @@
 
 ## 논문
 
-### MARBLE
+### MARBLE (🏆 **한국컴퓨터종합학술대회(KCC 2026) 학부생 부문 우수상** )
 
 [Multi-Agent Reasoning for Bioinformatics Learning and Evolution](https://arxiv.org/abs/2601.14349)
 
@@ -23,7 +23,7 @@
 [다중 에이전트 추론을 활용한 생물정보학 모델 자율 개선 프레임워크(KCC 2026)](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=939a26797889b620c85d2949c297615a&keyword=%EB%8B%A4%EC%A4%91%20%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%20%EC%B6%94%EB%A1%A0%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%83%9D%EB%AC%BC%EC%A0%95%EB%B3%B4%ED%95%99) 
 
 **공동 제1저자** · arXiv preprint · 2026  
-🏆 **한국컴퓨터종합학술대회(KCC 2026) 학부생 부문 우수상** 
+
 
 
 ### DiSPA
