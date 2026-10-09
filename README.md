@@ -7,6 +7,7 @@
 
 | 프로젝트 | 레포지토리 |
 | :--- | :--- |
+| 서울교통공사 상수도 이상징후 탐지·알림 서비스 | [Hanwool](https://github.com/CSID-DGU/2026-1-CECD1-3-Hanwool-06) |
 | AI 면접·커리어 추천 플랫폼 | [AIco](https://github.com/ssungcoding/AIco) |
 | YOLOv8 기반 분실물 자동 탐지 플랫폼 | [날찾아조](https://github.com/ssungcoding/2024_ICONICTHON_TEAM_8_WEB) |
 | 중·노년층 대상 신조어 음성 번역 서비스 | [Idea_Ton](https://github.com/ssungcoding/Idea_Ton) |
