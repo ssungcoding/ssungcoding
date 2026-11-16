@@ -1,5 +1,4 @@
 ## 소개
-- **학력** — 동국대학교 AI융합학부 (인공지능 전공, 데이터사이언스 복수전공 예정)
 - **연구** — arXiv 공동 제1저자 1편 · 국제학술지 공동저자 2편
 - **관심 분야** — AI Agent, AI Engineering, Data Engineering
 
